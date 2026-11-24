@@ -4,4 +4,4 @@ Un gestor de IAs donde poder importar Modelos/plugins y usarlos de manera sencil
 # Opciones:
 - Jugar al WoW (opcional)
 - Saber programar (obligatorio)
-- Tener experiencia con Rust (opcional)
+- Tener experiencia con Rust (opcional a medias)
